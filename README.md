@@ -1,9 +1,14 @@
-# SVM - Iris - Classifier Project
+# SVM-GridSearchCV-Iris-Classifier Project
 
 Project for classifying the 'species' - Target Labels of Iris dataset using SVM Classifier.
-| SETOSA | VERSICOLOR | VIRGINICA |
-|---|---|---|
-|![](http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg' height=300 width=300) | ![](http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg' height=300 width=300) | ![](http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg' height=300 width=300)|
+
+<p float='left'>
+<img src='http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg' height=300 width=300>
+
+<img src='http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg' height=300 width=300>
+
+<img src='http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg' height=300 width=300>
+</p>
 
 #### To classify the oberservations into the right Target Labels.
 The iris dataset contains measurements for 150 iris flowers from three different species.
